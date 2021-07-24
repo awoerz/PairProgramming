@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangMan", "HangMan\HangMan.csproj", "{53B6A17D-F0E4-4EC6-90BD-05694E62F34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangManClasses", "HangManClasses\HangManClasses.csproj", "{2C35461B-301F-4E52-BE75-6F0080456F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B6A17D-F0E4-4EC6-90BD-05694E62F34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B6A17D-F0E4-4EC6-90BD-05694E62F34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B6A17D-F0E4-4EC6-90BD-05694E62F34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B6A17D-F0E4-4EC6-90BD-05694E62F34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C35461B-301F-4E52-BE75-6F0080456F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C35461B-301F-4E52-BE75-6F0080456F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C35461B-301F-4E52-BE75-6F0080456F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C35461B-301F-4E52-BE75-6F0080456F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BEDBEF-1F81-46C1-9916-8705FA2F8EBF}
+	EndGlobalSection
+EndGlobal
